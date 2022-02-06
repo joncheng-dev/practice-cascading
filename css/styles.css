@@ -17,3 +17,15 @@ h1 {
   text-decoration: underline;
   font-size: larger;
 }
+
+.caption {
+  font-weight: bold;
+}
+
+.column p2 {
+  font-style: italic;
+}
+
+.column p2 a {
+  background-color: yellow;
+}
