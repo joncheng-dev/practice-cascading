@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+.column {
+  width: 30%;
+  float: left;
+  padding: 20px;
+  border: solid black;
+  border-width: 5px;
+  background-color: aquamarine;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.title {
+  text-decoration: underline;
+  font-size: larger;
+}
